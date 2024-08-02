@@ -2,3 +2,4 @@ python:3.11.9-slim
 vllm/vllm-openai:v0.5.2
 ghcr.io/wandb/openui:latest
 python:3.12-slim-bookworm
+lobehub/lobe-chat:latest
