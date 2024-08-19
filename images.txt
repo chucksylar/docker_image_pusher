@@ -6,3 +6,4 @@ lobehub/lobe-chat:latest
 vllm/vllm-openai:v0.5.4
 lobehub/lobe-chat:v1.9.6
 dyrnq/open-webui:main
+ollama/ollama:latest
