@@ -5,3 +5,4 @@ python:3.12-slim-bookworm
 lobehub/lobe-chat:latest
 vllm/vllm-openai:v0.5.4
 lobehub/lobe-chat:v1.9.6
+ghcr.io/open-webui/open-webui:main
