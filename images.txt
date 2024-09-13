@@ -8,3 +8,4 @@ lobehub/lobe-chat:v1.9.6
 dyrnq/open-webui:main
 ollama/ollama:latest
 nvcr.io/nvidia/pytorch:24.02-py3
+intel/oneapi:latest
