@@ -1,11 +1,2 @@
-python:3.11.9-slim
-vllm/vllm-openai:v0.5.2
-ghcr.io/wandb/openui:latest
-python:3.12-slim-bookworm
-lobehub/lobe-chat:latest
-vllm/vllm-openai:v0.5.4
-lobehub/lobe-chat:v1.9.6
-dyrnq/open-webui:main
-ollama/ollama:latest
-nvcr.io/nvidia/pytorch:24.02-py3
-intel/oneapi:latest
+vllm/vllm-openai:latest
+modular/max-nvidia-full:latest
